@@ -1,3 +1,5 @@
+_English translation [here](./README_EN.md)._
+
 [![Cover Image](./cover.jpg)](https://fountain.fm/episode/Kx4taG3LBdAAOQ4K6uzk)
 
 # Der Souverän
